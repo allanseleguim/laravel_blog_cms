@@ -1,9 +1,7 @@
 ## Build Blog CMS (Content Management System) with Laravel 7
 
 ## Clone this repo
-```
-https://github.com/samironbarai/laravel-7-blog-cms.git
-```
+
 
 ## Install composer packages
 ```
